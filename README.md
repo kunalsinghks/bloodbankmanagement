@@ -1,5 +1,4 @@
-# bloodbankmanagement
-Blood Bank Banagement
+
 # Blood Bank Management
 
 
