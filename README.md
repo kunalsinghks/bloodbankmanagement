@@ -27,9 +27,9 @@ In this project we have used a waterfall model as database lifecycle stages. The
 
 
 CONCEPTUAL DATA MODEL
-![image](https://user-images.githubusercontent.com/77065085/168370279-fb7fe405-21d6-4972-94f4-5f054f5faa17.png)
 
  
+![168370279-fb7fe405-21d6-4972-94f4-5f054f5faa17](https://user-images.githubusercontent.com/77065085/179967733-b4e47520-aef5-4b33-bd94-8d352a311ed6.png)
 
 
 NORMALIZING DATA
@@ -63,11 +63,20 @@ NORMALIZING DATA
 	(RECIPIENT_ID, BLOOD TYPE) ->R_AGE
 	(RECIPIENT_ID, BLOOD TYPE) ->R_GENDER
 
- 
-![image](https://user-images.githubusercontent.com/77065085/168370838-bfc7ebae-983e-4037-bc8f-2beb4abf276a.png)
+
+
+
+
+![168370838-bfc7ebae-983e-4037-bc8f-2beb4abf276a](https://user-images.githubusercontent.com/77065085/179968657-52cd1a7b-6a7f-4a14-8499-737626447a8f.png)
+
+
+
+
 
  
-![image](https://user-images.githubusercontent.com/77065085/168371245-96dbb742-76d5-4dbe-a42a-9896d2f5c3e4.png)
+![168371245-96dbb742-76d5-4dbe-a42a-9896d2f5c3e4](https://user-images.githubusercontent.com/77065085/179968590-caec01e5-49cd-40af-9953-f0acae86e8e1.png)
+
+
 
 LOGICAL  DESIGNS
 ![image](https://user-images.githubusercontent.com/77065085/168371765-e52b9be4-676a-4ae0-b040-557dcf16ff69.png)
